@@ -3,4 +3,4 @@
 def remove_str(word,n):
  res = word[n:]
  return res
-print(remove_str("Whereareyougoing",4))
+print(remove_str("Whereareyougoing",8))
